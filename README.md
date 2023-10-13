@@ -5,7 +5,7 @@
 
 
 
-- 🌱I'm currently learning **Html,CSS,Java,Python**
+- 🌱I'm currently learning **Html,CSS,JavaScript & Python**
 
 - 📫 How to reach me **abhishekkr150576@gmail.com**
 
